@@ -19,3 +19,7 @@ Naive Bayes classifier for multinomial models. The multinomial Naive Bayes class
 # FLASK
 Flask is a web framework that provides libraries to build lightweight web applications in python. It is developed by Armin Ronacher who leads an international group of python enthusiasts (POCCO). It is based on WSGI toolkit and jinja2 template engine.
 Flask is a web framework, it’s a Python module that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a microframework that doesn’t include an ORM (Object Relational Manager) or such features.
+
+####
+![Phishing url architecture](https://user-images.githubusercontent.com/72677771/206185545-d42a9ec9-fc21-4e1e-a129-daab4b8f1f13.png)
+
